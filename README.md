@@ -1,5 +1,7 @@
 # 🎵 Music Discovery App
 
+https://disciplined-chihuahua-480.convex.app/
+
 A sleek and simple app to explore new music based on your taste. Built to help users find songs, artists, or genres they might not have discovered otherwise.
 
 ## 🚀 Features
@@ -12,8 +14,8 @@ A sleek and simple app to explore new music based on your taste. Built to help u
 ## 🛠 Tech Stack
 
 * Frontend: React (or whatever you used)
-* Backend: Node.js / Express (if applicable)
-* API: \[Music API name]
+* Backend: Node.js / Express
+* API: \[Spotify]
 * Styling: CSS / Tailwind / etc.
 
 ## 📦 Installation
